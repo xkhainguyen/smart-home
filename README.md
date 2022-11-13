@@ -1,5 +1,5 @@
 # smart-home
-This is my final project in the IoT class at Hanoi University of Science and Technology. I worked on many sensor, actuator, processor module and then integrated them to a complete system. I used 02 ESP8266 and Blynk for most applications and it worked perfectly.
+This is my final project in the IoT class at Hanoi University of Science and Technology. I worked on many sensor, actuator, processor module and then integrated them to a complete system. I used 02 ESP8266, 01 Arduino and Blynk for most applications and it worked perfectly.
 
 Functions:
 - Intelligent secured door: RFID lock with facial recognition security AI camera and GPS
